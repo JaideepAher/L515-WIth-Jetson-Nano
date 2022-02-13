@@ -10,14 +10,18 @@ Refer the following link for installing Jetpack on Jetson Nano https://developer
 
 Open the terminal on ypour jetson nano and put the following commands.
 
+
 1)
 $ git clone https://github.com/JetsonHacksNano/installLibrealsense
+
 
 2)
 $ cd installLibrealsense
 
+
 3)
 $ ./installLibrealsense.sh
+
 
 To start the realsense Viewer
 
