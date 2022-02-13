@@ -1,9 +1,15 @@
 # L515-WIth-Jetson-Nano
-L515 Jetson Nano
 
-You can refer the article linked here https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_jetson.md to do custon installation, or you could do the following steps mentioned below (refred frm jetsonhacks.com)
+
+First we will setup our Jetson Nano (You can skip this if you have installed jetpack)
+
+Refer the following link for installing Jetpack on Jetson Nano https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro
+
+
+Now we need to install Intel Realsense on Jetson nano, you can refer the article linked here https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_jetson.md to do custon installation, or you could do the following steps mentioned below (refred frm jetsonhacks.com)
 
 Open the terminal on ypour jetson nano and put the following commands.
+
 1)
 $ git clone https://github.com/JetsonHacksNano/installLibrealsense
 
