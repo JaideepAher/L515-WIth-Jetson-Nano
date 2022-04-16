@@ -38,9 +38,15 @@ $ realsense-viewer
 3. Now connect the power adapter on the barel jack port
 4. Start the nano and on the dextop navigate to power setting
 5. Click on power mode and set it to "Maxn"
+![image](https://user-images.githubusercontent.com/59818448/163683974-dc018db2-e87c-4379-bf2d-ced5e761f7fe.png)
 
 ## d) Now connect L515 to Jetson Nano and start the realsense viewer by using the command  
 
 $ realsense-viewer 
+
+
+here is my jetson connected to L515 with realsense viewer turned on
+
+![IMG_20220205_213252](https://user-images.githubusercontent.com/59818448/163684045-83e1ecc5-36d4-4269-8d4c-98c2763bd09c.jpg)
 
 
