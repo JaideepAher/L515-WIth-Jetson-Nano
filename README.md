@@ -1,4 +1,4 @@
-# L515-WIth-Jetson-Nano
+# Connecting L515-WIth-Jetson-Nano
 
 
 ## A) First we will setup our Jetson Nano (You can skip this if you have installed jetpack)
