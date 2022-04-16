@@ -1,4 +1,6 @@
-# Connecting L515-WIth-Jetson-Nano
+# Connecting L515-With Jetson Nano
+
+Many ppl have been facing this issue hence thought of this.
 
 
 ## A) First we will setup our Jetson Nano (You can skip this if you have installed jetpack)
