@@ -1,6 +1,6 @@
 # Connecting L515-With Jetson Nano
 
-Many ppl have been facing this issue hence thought of this.
+Many ppl have been facing this issue and some even said this dosent work, so here is a small guide how to do it.
 
 
 ## A) First we will setup our Jetson Nano (You can skip this if you have installed jetpack)
@@ -50,4 +50,7 @@ here is my jetson connected to L515 with realsense viewer turned on
 ![IMG_20220205_213252](https://user-images.githubusercontent.com/59818448/163684045-83e1ecc5-36d4-4269-8d4c-98c2763bd09c.jpg)
 
 
+I have also done Mapping using the Lidar and Jetson via ROS, (the 3d map is overlaping due to some IMU related bug)
+
+![Uploading Screenshot from 2022-02-15 01-19-52 (2).png…]()
 
