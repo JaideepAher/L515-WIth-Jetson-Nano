@@ -1,4 +1,4 @@
-# Connecting L515-With Jetson Nano
+# Connecting Intel L515 Lidar Camera With Jetson Nano
 
 Many ppl have been facing this issue and some even said this dosent work, so here is a small guide how to do it.
 
