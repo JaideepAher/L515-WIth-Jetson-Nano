@@ -32,7 +32,7 @@ $ realsense-viewer
 ## C) So we have completed the software side here. Now to connect the L515 liDAR Camera with jetson nano we need to set it to Max power mode(That is 5v 4A, connected via barrel jack or usb c), or else the jetson Nano would power off as the L515 requires more power. Follow the steps givenbelow if you havent already configured it to Max power mode.
 
 1. Turn off the Jetson Nano and disconnect everything connected to it.
-2. Use a jumper and connect it to pin x and y
+2. Use a jumper and connect it to pin J48
 3. Now connect the power adapter on the barel jack port
 4. Start the nano and on the dextop navigate to power setting
 5. Click on power mode and set it to "Maxn"
