@@ -31,7 +31,7 @@ To start the realsense Viewer
 $ realsense-viewer
 
 
-## C) So we have completed the software side here. Now to connect the L515 liDAR Camera with jetson nano we need to set it to Max power mode(That is 5v 4A, connected via barrel jack or usb c), or else the jetson Nano would power off as the L515 requires more power. Follow the steps givenbelow if you havent already configured it to Max power mode.
+## C) So we have completed the software side here. Now to connect the L515 liDAR Camera with jetson nano we need to set it to Max power mode(That is 5v 4A, connected via barrel jack or usb c), or else the jetson Nano would power off as the L515 requires more power. Follow the steps givenbelow if you havent already configured it to Max power mode. (Please use a good Quality 5v 4A like this one https://rarecomponents.com/store/5v-6a-dc-power-supply-jetson-nano )
 
 1. Turn off the Jetson Nano and disconnect everything connected to it.
 2. Use a jumper and connect it to pin J48
