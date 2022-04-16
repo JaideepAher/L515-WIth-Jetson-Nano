@@ -52,5 +52,6 @@ here is my jetson connected to L515 with realsense viewer turned on
 
 I have also done Mapping using the Lidar and Jetson via ROS, (the 3d map is overlaping due to some IMU related bug)
 
-![Uploading Screenshot from 2022-02-15 01-19-52 (2).png…]()
+![Screenshot from 2022-02-15 01-19-52 (2)](https://user-images.githubusercontent.com/59818448/163684384-3222931e-0f62-43c2-8074-ca8a3efa2646.png)
+
 
